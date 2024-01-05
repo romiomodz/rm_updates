@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "version": "RCWhatsApp V6.3",
+      "code": 10,
+      "url": "https://www.mediafire.com/file/016uszm0cf43bfd/RcHelp_v2.apk/file",
+      "changelog": "- New Update -\n More features and improvements!"
+    }
+  ]
+}
